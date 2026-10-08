@@ -1,0 +1,8 @@
+*.zip
+*.pdf
+*.tar.gz
+*.exe
+*.7z
+.conda/
+venv/
+.venv/
